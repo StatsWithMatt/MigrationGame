@@ -24,4 +24,3 @@ document.getElementById("randomImage").src = randomChoice.src;
 document.getElementById("line1").placeholder = randomChoice.placeholders[0];
 document.getElementById("line2").placeholder = randomChoice.placeholders[1];
 document.getElementById("line3").placeholder = randomChoice.placeholders[2];
-
